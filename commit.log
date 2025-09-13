@@ -1,0 +1,104 @@
+commit 0d05f3bcf5d2abeaff1c544bbc76cc9c2261ea89
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Sat Sep 13 13:47:22 2025 -0300
+
+    Agregando 2 parrafos
+
+commit 27d686e1973086a925553ad885b7c89fe863eaf9
+Merge: aa0ea8d 8a0e54e
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Sat Sep 13 13:45:04 2025 -0300
+
+    Resolviendo Conflicto en estaciones del año y fecha de inicio
+
+commit aa0ea8d03ed8dd46391b33252928f2177f033ee5
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Sat Sep 13 13:30:02 2025 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 8a0e54e663603c3a62e5bc045def381950e2f872
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Sat Sep 13 13:30:02 2025 -0300
+
+    Agregando estaciones del año
+
+commit 6588266fbd3bf1d08726859a13ed5cd570e4201b
+Merge: c10005d 02e00e4
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Fri Sep 12 16:11:00 2025 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 02e00e4c5cdcba1c730df6ed5d8946d90d2a63dd
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Fri Sep 12 16:04:21 2025 -0300
+
+    cambios
+
+commit 136b7aada967c709afd28b1d6edc1009edb06152
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Fri Sep 12 16:02:01 2025 -0300
+
+    agregando index.js a index.html
+
+commit c10005dc6748bb0f29ee6dc3ad26b67c50633469
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Fri Sep 12 15:58:33 2025 -0300
+
+    agregando style.css al index
+
+commit 3a3679383c8a048eafeadc5b64a4575d6a5cc362
+Merge: ee2a73f 4a36a33
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Fri Sep 12 15:44:03 2025 -0300
+
+    Merge branch 'js'
+
+commit 4a36a337614a933f497e3cd7d5d8923fdea91d16
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Fri Sep 12 15:40:36 2025 -0300
+
+    Creando index.js
+
+commit ee2a73f0556af3c542f871359892f761bd9f092e
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Fri Sep 12 15:36:27 2025 -0300
+
+    creando css
+
+commit 17d3ba822d259f0491264bd8a7780eb51f1c1b1c
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Fri Sep 12 15:27:53 2025 -0300
+
+    Creando index.html
+
+commit ec4fad4d1456b8c835f7144cad4b2815eca0b4b2
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Thu Sep 11 18:54:54 2025 -0300
+
+    ignorando archivos .exe
+
+commit c76c9ee976ce3fa6b1ded1e030c9456eac5a9106
+Author: TRESDEV <tresdevcripto@gmail.com>
+Date:   Thu Sep 11 18:11:57 2025 -0300
+
+    Creando licencia del repositorio
+
+commit 93c6318e7b9a70bb6ebd536f9ef18faeab4061f3
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Thu Sep 11 18:03:04 2025 -0300
+
+    agregando mas contenido al README
+
+commit 04f8702475e7b223e9621d59ee6e8bdbe441a9b0
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Thu Sep 11 17:32:04 2025 -0300
+
+    Agregando contenido inicial al README
+
+commit 5112330bb77619bd982595b46a7e6888a8fe27d5
+Author: tresdeveloper <tresdevcripto@gmail.com>
+Date:   Thu Sep 11 17:27:37 2025 -0300
+
+    Primer commit :>
