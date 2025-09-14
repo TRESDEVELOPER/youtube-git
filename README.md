@@ -2,6 +2,10 @@
 
 Hola soy tu amigo y docente digital jonathan MirCha, bienvenid@s a mi curso.
 
-Agregando más contenido al _README.md_
+¿Quieres mejorar el uso de Git?
 
-Este commit es para oficializar nuestra versión **1.0.0**.
+Mira este [Enlace](https://jonmircha.com/git)
+
+# Flujo Basico de Git.
+
+![Flujo Basico de Git.](git-flow.png)
